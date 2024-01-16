@@ -30,6 +30,7 @@ public class FundamentosTiposPrimitivosEnJava {
         System.out.println("numeroInt = " + numeroInt);
         System.out.println("valor minimo Int: " + Integer.MIN_VALUE);
         System.out.println("valor maximo Int: " + Integer.MAX_VALUE);
+        System.out.println("cambios");
 
     }
 
