@@ -10,5 +10,9 @@ public class TiposPrimitivosDeTipoFlotante {
         System.out.println("MINVALUE: " + Float.MIN_VALUE);
         System.out.println("MAXVALUE: " + Float.MAX_VALUE);
         
+        double numeroDouble = 10;
+        System.out.println("maximo numeroDouble = " + Double.MAX_VALUE);
+        System.out.println("minimo numeroDouble = " + Double.MIN_VALUE);
+        
     }
 }
