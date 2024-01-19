@@ -56,26 +56,27 @@ public class EstacionesDelAnoConSwitch {
             case 1:
             case 2:
             case 3:
-                System.out.println("El mes elegido para el numero escrito es: " + mes + " la estacion para este numero es: " + estacion);
+                System.out.println("El mes elegido para el numero escrito es " + mes + " la estacion para este numero es: " + estacion);
                 break;
             case 4:
             case 5:
             case 6:
-                System.out.println("El mes elegido para el numero escrito es: " + mes + " la estacion para este numero es: " + estacion);
+                System.out.println("El mes elegido para el numero escrito es " + mes + " la estacion para este numero es: " + estacion);
                 break;
             case 7:
             case 8:
             case 9:
             case 10:
-                System.out.println("El mes elegido para el numero escrito es: " + mes + " la estacion para este numero es: " + estacion);
+                System.out.println("El mes elegido para el numero escrito es " + mes + " la estacion para este numero es: " + estacion);
                 break;
             case 11:
             case 12:
-                System.out.println("El mes elegido para el numero escrito es: " + mes + " la estacion para este numero es: " + estacion);
+                System.out.println("El mes elegido para el numero escrito es " + mes + " la estacion para este numero es: " + estacion);
                 break;
             default:
                 throw new AssertionError();
         }
+        System.out.println("hola");
     }
 
 }
