@@ -20,7 +20,6 @@ public class ConversionesDeTiposUsandoTiposPrimitivos {
         System.out.println("edad = " + edad);
         
         //convertir un int a string
-        
         var edadTexto = String.valueOf(edad);
         System.out.println("edadTexto = " + edadTexto);
         

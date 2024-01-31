@@ -10,7 +10,7 @@ public class CaracteresEspeciales {
         //retroceso
         System.out.println("nueva linea: \b" + nombre);
         //comilla simple y doble
-        System.out.println("comilla simple: \'" + nombre + "\'" );
+        System.out.println("comilla simple: \'" + nombre + "\'");
         //COMILLA DOBLE
         System.out.println("comilla doble: \"" + nombre + "\" ");
     }
